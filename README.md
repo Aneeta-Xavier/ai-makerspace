@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ai-makerspace
 LLM Challenge 
 =======
